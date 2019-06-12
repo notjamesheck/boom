@@ -1,0 +1,7 @@
+[user]
+	name = notjamesheck
+	email = 224@holbertonschool.com
+[credential]
+	helper = cache --timeout=999999999
+[core]
+	editor = vim
