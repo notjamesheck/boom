@@ -8,9 +8,9 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:q
 :x
 :s
-:q
 
 # Search String History (newest to oldest):
 
@@ -23,15 +23,23 @@
 # Registers:
 
 # File marks:
-'0  1  17  ~/newfile
-'1  1  0  ~/.ssh/id_rsa.pub
+'0  1  0  ~/.git/COMMIT_EDITMSG
+'1  1  17  ~/newfile
+'2  1  0  ~/.ssh/id_rsa.pub
 
 # Jumplist (newest first):
+-'  1  0  ~/.git/COMMIT_EDITMSG
+-'  1  17  ~/newfile
+-'  1  0  ~/.ssh/id_rsa.pub
+-'  1  0  ~/.ssh/id_rsa.pub
 -'  1  17  ~/newfile
 -'  1  0  ~/.ssh/id_rsa.pub
 -'  1  0  ~/.ssh/id_rsa.pub
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/COMMIT_EDITMSG
+	"	1	0
 
 > ~/newfile
 	"	1	17
